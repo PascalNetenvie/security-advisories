@@ -18,7 +18,7 @@ Multiple SQL injection vulnerabilities in the Leo Custom Ajax (leocustomajax) mo
 * **Advisory source**: Friends-Of-Presta
 * **Platform**: PrestaShop
 * **Product**: leocustomajax
-* **Impacted release**: = 1.0 (May also be identified as 1.0.0)
+* **Impacted release**: =1.0 (May also be identified as 1.0.0)
 * **Product author**: LeoTheme
 * **Weakness**: [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
 * **Severity**: critical (9.8)
