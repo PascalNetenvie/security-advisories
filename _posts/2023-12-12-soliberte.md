@@ -20,7 +20,7 @@ In the module "soliberte" for PrestaShop, an attacker can perform a SQL injectio
 * **Advisory source**: Friends-Of-Presta.org
 * **Platform**: PrestaShop
 * **Product**: soliberte
-* **Impacted release**: >= 4.0.0 and < 4.3.03 (4.3.03 fixed issue)
+* **Impacted release**: >=4.0.0 and <4.3.03 (4.3.03 fixed issue)
 * **Product author**: Common Services
 * **Weakness**: [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
 * **Severity**: critical (9.8)
