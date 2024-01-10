@@ -20,7 +20,7 @@ In the Boxtal (envoimoinscher) module from Boxtal for PrestaShop, after version 
 * **Advisory source**: Friends-Of-Presta
 * **Platform**: PrestaShop
 * **Product**: envoimoinscher
-* **Impacted release**: > 3.1.10,<= 3.3.8 (latest version, not fixed, deprecated module to remove or to replace by Boxtal Connect)
+* **Impacted release**: >3.1.10 and <=3.3.8 (latest version, not fixed, deprecated module to remove or to replace by Boxtal Connect)
 * **Product author**: Boxtal
 * **Weakness**: [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
 * **Severity**: critical (9.8)
