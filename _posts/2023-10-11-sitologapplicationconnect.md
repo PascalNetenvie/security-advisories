@@ -19,7 +19,7 @@ In the module "Sitolog Application Connect" (sitologapplicationconnect) from Sit
 * **Published at**: 2023-10-11
 * **Platform**: PrestaShop
 * **Product**: sitologapplicationconnect
-* **Impacted release**: <= 7.8.a (ALL VERSIONS)
+* **Impacted release**: <=7.8 (ALL VERSIONS)
 * **Product author**: Sitolog
 * **Weakness**: [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
 * **Severity**: critical (9.8)
