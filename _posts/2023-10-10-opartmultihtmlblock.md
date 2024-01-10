@@ -18,7 +18,7 @@ Multiple cross-site scripting (XSS) vulnerabilities of Type 2 (Stored XSS) B2F (
 * **Advisory source**: Friends-Of-Presta
 * **Platform**: PrestaShop
 * **Product**: opartmultihtmlblock and multihtmlblock* sub-modules
-* **Impacted release**: For opartmultihtmlblock <= 2.0.11 (Fixed in 2.0.12), for multihtmlblock* : = 1.0.0
+* **Impacted release**: For opartmultihtmlblock <=2.0.11 (Fixed in 2.0.12), for multihtmlblock* : =1.0.0
 * **Product author**: Opart
 * **Weakness**: [CWE-79](https://cwe.mitre.org/data/definitions/79.html)
 * **Severity**: medium (6.1)
